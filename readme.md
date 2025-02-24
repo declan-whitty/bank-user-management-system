@@ -235,7 +235,7 @@ Here the prompt we want to highlight is red.
 - More security for private information
 
 ## Author
-[Declan Whitty](https://github.com/declan-whitty)# bank-user-management-system
+[Declan Whitty](https://github.com/declan-whitty)
 
 ## Collaborators
 [Earvin Tumpao](https://github.com/earvin-tech)
