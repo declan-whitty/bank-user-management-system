@@ -55,5 +55,13 @@
                 "balance": 12000.0
             }
         ]
+    },
+    {
+        "firstname": "aena",
+        "lastname": "singh",
+        "dobm": 3,
+        "dobd": 21,
+        "doby": 2005,
+        "accounts": []
     }
 ]
